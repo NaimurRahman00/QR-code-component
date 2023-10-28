@@ -19,7 +19,7 @@ body {
 
 .card {
     width: 21rem;
-    padding: 1.1rem;
+    padding: 1rem;
     margin: 6rem auto 4rem;
     background-color: var(--white);
     border-radius: 1.5rem !important;
@@ -51,7 +51,7 @@ body {
     font-size: 15px;
     font-weight: 400;
     text-align: center;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
 }
 
 .attribution {
